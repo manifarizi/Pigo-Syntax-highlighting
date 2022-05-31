@@ -1,0 +1,25 @@
+{
+    "name": "pgo",
+    "displayName": "PGO",
+    "description": "PGo Lang",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "pgo",
+            "aliases": ["PGo", "pgo"],
+            "extensions": [".pgo"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "pgo",
+            "scopeName": "pgo",
+            "path": "./syntaxes/pgo.tmLanguage.json"
+        }]
+    }
+}
