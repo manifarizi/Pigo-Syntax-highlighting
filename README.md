@@ -1,6 +1,8 @@
-# pgo README
+# how to install
 copy this folder to 
-"C:\Users\%username%\.vscode\extensions\pgo"
+> C:\Users\\%username%\\.vscode\extensions\
+
 for installing
 and restart your vsCode
-> i copy the syntax folder from a extension called "Txt-syntax"
+# _________________________________
+**i copy the syntax folder from a extension called "Txt-syntax"**
